@@ -17,10 +17,10 @@ We used the Concrete Compressive Strength data set from UC Irvine Machine Learni
 5-fold cross validation was carried out in order to compare the performance of 3 models fitted in the above sections, and to see which model performs the best in predicting the concrete compressive strength. 
 
 Procedure of the test is the following:
-1.Randomly and equally split the samples into 5 groups
-2.Take one group as test set and the other 4 sets as training set
-3.Fit the model with the training set and find RMSE values for the test set
-4.Repeat steps 2 and 3 for 5 times and take the average of the RMSE values 
+1. Randomly and equally split the samples into 5 groups
+2. Take one group as test set and the other 4 sets as training set
+3. Fit the model with the training set and find RMSE values for the test set
+4. Repeat steps 2 and 3 for 5 times and take the average of the RMSE values 
 
 ## Result
 It was shown that the polynomial model performs the best among the 3 models. Though it has the negative Cp value, it has the smallest RMSE value, the largest adjusted R-squared value, and the smallest BIC value, making it the best model to predict the concrete compressive strength. 
