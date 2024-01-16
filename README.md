@@ -5,10 +5,10 @@ Concrete is a fundamental building material in modern society, and its quality c
 ## Predictive Models
 We used four different approaches to create the model to predict the compressive strength:
 
-1.Full Linear Model
-2.Linear Model (Best subset selection)
-3.Polynomial Regression
-4.Interaction Model
+1. Full Linear Model
+2. Linear Model (Best subset selection)
+3. Polynomial Regression
+4. Interaction Model
 
 ## Data
 We used the Concrete Compressive Strength data set from UC Irvine Machine Learning Respitory. (https://archive.ics.uci.edu/dataset/165/concrete+compressive+strength)
