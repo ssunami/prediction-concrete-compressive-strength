@@ -26,3 +26,7 @@ Procedure of the test is the following:
 It was shown that the polynomial model performs the best among the 3 models. Though it has the negative Cp value, it has the smallest RMSE value, the largest adjusted R-squared value, and the smallest BIC value, making it the best model to predict the concrete compressive strength. 
 
 ## Source Code
+The code is in R (https://github.com/ssunami/prediction-concrete-compressive-strength/blob/main/compressive_strength_project.md). This can be downloaded locally though requires installing R and R Studio.
+
+## Project Report
+Full project report is available here (https://github.com/ssunami/prediction-concrete-compressive-strength/blob/main/Project_Report_Compressive_Strength.pdf)
